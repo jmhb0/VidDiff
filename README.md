@@ -6,7 +6,7 @@ This repo is the source code for our paper [Video Action Differencing with Natur
 
 
 ## Code release dates
-- June 19: methods code & demo dataset
-- June 28: benchmark release
-- July 4: arxiv paper
+- June 19: VidDiff method code & demo dataset
+- June 28: VidDiffBench benchmark release
+- July 4: arxiv paper released
 
